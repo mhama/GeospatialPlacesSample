@@ -2,6 +2,7 @@
 
 A sample app to show information of places around you using Geospatial API, overlaying on the camera image.
 Based on the sample of Geospatial API.
+This app can be built for Android / iOS.
 
 ## Versions
 
@@ -9,7 +10,7 @@ Unity 2019.4
 ARFoundation 4.1.5
 ARCore Extension 1.33.0
 
-## Gradle settings
+## (Only for Android build) Gradle settings
 
 For Unity 2019.4, you need to use gradle v6.5.1 (or something) to build for Android.
 You can change the gradle version via Preferences -> External Tools
